@@ -1,6 +1,7 @@
 var fs = require("fs");
-var file = "./readfile.json";
-var findValue = "PB";
+// example.
+// var file = "./readfile.json";
+// var findValue = "PB";
 
 module.exports = function(file, findValue) {
   // read file.
